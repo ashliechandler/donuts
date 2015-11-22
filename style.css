@@ -2,3 +2,18 @@ h1 {
   text-align: center;
   font-family: "Tw Cen MT", "Century Gothic", Arial;
 }
+h3, p, ul, li {
+  font-family: "Tw Cen MT", "Century Gothic", Arial;
+}
+table {
+    border-spacing: 5px;
+    font-family: "Tw Cen MT", "Century Gothic", Arial;
+}
+th, td, tbody {
+    padding: 15px;
+    text-align: center;
+    font-family: "Tw Cen MT", "Century Gothic", Arial;
+}
+.donut-shop {
+    font-family: "Tw Cen MT", "Century Gothic", Arial;
+}
